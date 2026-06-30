@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0167/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 龜
+  hash: sha256:914fdebf7f3c33bb9cd6686763328b6195720e4488e8a36625ec7984b13c0b16
+metadata:
+  title: 沈忠敏公龜谿集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 00:30:04.802386'
+  source:
+    repository: kanripo
+    path: KR4d0167/KR4d0167_000.txt
+hash: sha256:1efe3ec0d727b4af8ccbbbfee4566f71351ddcb82e15469ac670deb780bc87e0
