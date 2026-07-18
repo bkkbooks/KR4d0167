@@ -127,6 +127,7 @@ markers:
   - {type: line-break, offset: 298, content: '', id: KR4d0167_SBCK_004-2a01}
   - {type: punctuation, offset: 299, content: (, id: KR4d0167_krp_004-bkkpn1}
   - {type: variant, offset: 299, length: 2, content: 名御, WYG: 慎}
+  - {type: voice, offset: 299, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 300, content: /, id: KR4d0167_krp_004-bkkpn2}
   - {type: punctuation, offset: 301, content: ), id: KR4d0167_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 319, content: '
@@ -1627,4 +1628,4 @@ markers:
 
       ', id: KR4d0167_krp_004-bkkkrnewl303}
   back: []
-hash: sha256:ca355ac8a285c93f65b7772d4968bf053ceb73d7b3c4e9974e172f561e7bdd10
+hash: sha256:d9fd32f3b8675fbb141c10f1c78f7e85b80a1fdfb5823a242ebaff6756d74f55
